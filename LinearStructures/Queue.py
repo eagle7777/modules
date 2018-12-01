@@ -7,7 +7,7 @@
 class NodeForQueue:
     """
     Вспомогательный класс
-    ухел очереди
+    узел очереди
     """
     def __init__(self, item=None):
         self.item = item  # нагрузка (значение) элемента
